@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 =head
-    File    : perlDiffArray.pl
-    Time    : 2018/04/16 23:54
+    File    : diffArray.pl
+    Time    : 2018/04/17 02:15:14
     Author  : Guo,Xuan-Chen
 =cut
 
